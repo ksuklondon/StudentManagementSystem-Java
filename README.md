@@ -119,3 +119,4 @@ Aby je uruchomić:
 
 Imię i nazwisko: Kalina Staniszewska
 Data: 08.01.2025
+Paradygmaty i jezyki programowania
